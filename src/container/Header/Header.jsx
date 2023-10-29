@@ -14,9 +14,9 @@ const Header = () => {
     <div className="app__header app__wrapper section__padding" id="home">
       <div className="app__wrapper_info" data-aos="fade-right">
         <SubHeading title="Making the memories that matters" />
-        <h1 className="app__header-h1">Ved Photo Make</h1>
+        <h1 className="app__header-h1">Photo Make</h1>
         <p className="p__opensans" style={{ margin: "2rem 0" }}>
-          Ved Photo Make is a professional photo studio that offers a wide range
+          Photo Make is a professional photo studio that offers a wide range
           of photography services. With a team of skilled photographers and
           state-of-the-art equipment, they are committed to delivering
           exceptional quality and capturing every precious moment. Whether it's

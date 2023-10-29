@@ -16,9 +16,9 @@ return(
     <div className="app__footer-links">
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext" data-aos = "fade-up">Contact Us</h1>
-        <p className="p__opensans" data-aos = "fade-up">Bijali Nagar, Area Of Stadium , Deopur, Dhule</p>
-        <p className="p__opensans" data-aos = "fade-up">+91 8888 646 888</p>
-        <p className="p__opensans" data-aos = "fade-up">jitupatil1381@gmail.com</p>
+        <p className="p__opensans" data-aos = "fade-up"> abc @pune </p>
+        <p className="p__opensans" data-aos = "fade-up">+91 1111111111</p>
+        <p className="p__opensans" data-aos = "fade-up">sample@gmail.com</p>
       </div>
 
       <div className="app__footer-links_logo" data-aos = "fade-up">
@@ -41,7 +41,7 @@ return(
     </div>
 
     <div className="footer__copyright">
-      <p className="p__opensans">Copyright ⓒ 2023 Vedant Patil. All Rights Reserved.</p>
+      <p className="p__opensans">Copyright ⓒ 2023 Rohan . All Rights Reserved.</p>
     </div>
 
   </div>

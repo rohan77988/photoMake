@@ -43,7 +43,7 @@ const Booking = (props) => {
             </p>
           </div>
           <div className="main-form1">
-            <form action="https://formspree.io/f/meqwbrwn" method="POST" >
+            <form action="" method="" >
               <div className="input__component" data-aos = "fade-up">
                 <span>Name</span>
                 <input

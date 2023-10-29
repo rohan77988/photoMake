@@ -36,7 +36,7 @@ const Gallery = () => {
       </div>
 
       <a href="/portfolio"><button type="button" className="custom__button gallary__buttons" data-aos = "fade">Click to see Portfolio</button></a>
-      <a href="https://www.youtube.com/@vedphotojitupatil3518" target="_blank"><button type="button" className="custom__button" data-aos = "fade">Explore our YouTube</button></a>
+      <a href="" target="_blank"><button type="button" className="custom__button" data-aos = "fade">Explore our YouTube</button></a>
       <AnimatedGallery />
 
 
